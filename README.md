@@ -1,3 +1,8 @@
+# OUTDATED - Please see below for the new VATUSA Base ARTCC Website designed for integration with the VATUSA API. That is written in Laravel 5. This code is no longer being updated.
+
+VATUSA Base ARTCC Website, which is a newer version of the legacy Bozwood-Davies legacy website can be found at:
+[https://github.com/iccowan/VATUSA_Base_ARTCC_Site](https://github.com/iccowan/VATUSA_Base_ARTCC_Site)
+
 # EmailOpt for Laravel 4.2
 
 Created by Ian Cowan for the vZTL ARTCC website in order to comply with the new GDPR requirements.
